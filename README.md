@@ -16,5 +16,7 @@ Users can upload their own customer datasets, view preprocessing summaries, gene
 The app displays cluster-wise demographic analysis, feature comparisons, and labeled segmentation outputs.
 It also provides options to download the segmented dataset for further reporting or integration into business workflows.
 This ensures scalability, usability, and practical deployment of the clustering model in real-world scenarios.
+
 The interactive Streamlit app is deployed and publicly accessible at:
+
 https://siyabhasin-multi-segment-customer-clustering-a-4sxrry.streamlit.app/
