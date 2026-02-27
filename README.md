@@ -1,5 +1,6 @@
 # Multi-segment_Customer-Clustering
 This project uses K-Means clustering in Python to segment customers based on demographic and behavioral data. After preprocessing and feature scaling, users are grouped into five distinct clusters.
+
 Includes EDA, multiple visualizations, and a Streamlit app for automated segmentation and downloadable results.
 The dataset includes features such as age, gender, income, education, location, device usage, weekday/weekend activity, click-through rate (CTR), conversion rate, ad interaction time, likes, follows, and top interests.
 Data preprocessing involved handling missing values, encoding categorical variables, and applying feature scaling to ensure optimal clustering performance.
@@ -12,3 +13,5 @@ Users can upload their own customer datasets, view preprocessing summaries, gene
 The app displays cluster-wise demographic analysis, feature comparisons, and labeled segmentation outputs.
 It also provides options to download the segmented dataset for further reporting or integration into business workflows.
 This ensures scalability, usability, and practical deployment of the clustering model in real-world scenarios.
+The interactive Streamlit app is deployed and publicly accessible at:
+https://siyabhasin-multi-segment-customer-clustering-a-4sxrry.streamlit.app/
